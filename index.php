@@ -90,7 +90,9 @@
 
                 <div class="col">
 
-                    <?xml version="1.0"?>
+                    <?php
+                        echo '<?xml version="1.0"?>';
+                    ?>
 <!--
 ************* Copyright (c) 2017 Pareto Softare, LLC DBA Simplemaps.com *******************     
 ************* Free for Commercial Use, full terms at  http://simplemaps.com/resources/svg-license ************
